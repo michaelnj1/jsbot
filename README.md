@@ -5,5 +5,5 @@
 
 ```if (msg.content.startsWith(prefix + "ping")) {
     msg.channel.sendMessage("ping!"); 
-  } 
-```
+  }```
+
